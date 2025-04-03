@@ -29,7 +29,7 @@ While we set up an easy path to reach out, feel free to message any of the core 
 
 ### License
 
-Unless otherwise noted at a per-component level, this Project CodeFlare is licensed under the Apache-2.0 License.
+Unless otherwise noted within a specific repo, all projects are licensed under the Apache-2.0 License.
 
 ### Continuous Improvement
 
