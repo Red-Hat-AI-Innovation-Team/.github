@@ -10,7 +10,7 @@ This GitHub organization serves as the home for the AI Innovation Team's latest 
 
 ### Learning
 
-To keep up with the latest from the AI Innovation team, check out our home page [here](https://red-hat-ai-innovation-team.github.io/)!
+To keep up with the latest from the AI Innovation team, check out our home page [here](https://ai-innovation.team/)!
 
 We also have a podcast series, "No Math AI", available on [youtube](https://youtu.be/QEDGOEJxQk4?si=zOpROD1ivkt_4c6L) and [spotify](https://open.spotify.com/episode/1FJKF0HR03pUNxeEN5BwEM?si=zgpty0FFTcCdGnAcThhOxg)
 
