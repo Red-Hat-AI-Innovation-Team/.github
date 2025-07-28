@@ -12,12 +12,12 @@ This GitHub organization serves as the home for the AI Innovation Team's latest 
 
 To keep up with the latest from the AI Innovation team, check out our home page [here](https://ai-innovation.team/)!
 
-We also have a podcast series, "No Math AI", available on [youtube](https://youtu.be/QEDGOEJxQk4?si=zOpROD1ivkt_4c6L) and [spotify](https://open.spotify.com/episode/1FJKF0HR03pUNxeEN5BwEM?si=zgpty0FFTcCdGnAcThhOxg)
+We also have a podcast series, "No Math AI", available on [youtube](https://www.youtube.com/playlist?list=PLbMP1JcGBmSHBcSD75AKAT830Cd9HTLh6) and [spotify](https://open.spotify.com/episode/1FJKF0HR03pUNxeEN5BwEM?si=zgpty0FFTcCdGnAcThhOxg)
 
 ### Quick Start
 
 As our libraries continue to evolve, we will continue to provide documentation, tutorials, example notebooks, and more.
-For example, see our recent notebook on [customizing reasoning models with your data](https://github.com/Red-Hat-AI-Innovation-Team/SDG-Research/tree/main/examples/knowledge_generation_using_nemotron) 👀
+For example, see our recent notebook on [customizing reasoning models with your data](https://github.com/Red-Hat-AI-Innovation-Team/sdg_hub/tree/main/examples/knowledge_tuning/knowledge_tuning_with_reasoning_model) 👀
 
 ## Development
 
