@@ -17,6 +17,16 @@ jobs:
       pull-requests: write
       id-token: write
     steps:
+      - name: Check actor has write access
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          PERMISSION=$(gh api repos/${{ github.repository }}/collaborators/${{ github.actor }}/permission --jq '.permission')
+          if [ "$PERMISSION" != "admin" ] && [ "$PERMISSION" != "write" ] && [ "$PERMISSION" != "maintain" ]; then
+            echo "::error::Actor ${{ github.actor }} does not have write permission (has: $PERMISSION)"
+            exit 1
+          fi
+
       - name: Acknowledge with eyes emoji
         env:
           GH_TOKEN: ${{ github.token }}
